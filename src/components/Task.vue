@@ -5,7 +5,7 @@
       <span class="checkbox-custom" @click="archiveTask" />
     </label>
     <div class="title">
-      <input type="text" :value="task.title" readonly placeholder="Input title" style="background-color: green" />
+      <input type="text" :value="task.title" readonly placeholder="Input title" style="background-color: gray" />
     </div>
     <div class="actions">
       <a v-if="!isChecked" @click="pinTask">
