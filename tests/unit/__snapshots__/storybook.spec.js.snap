@@ -41,6 +41,7 @@ exports[`Storyshots PureInboxScreen Default 1`] = `
           <input
             placeholder="Input title"
             readonly=""
+            style="background: blue;"
             type="text"
           />
         </div>
@@ -75,6 +76,7 @@ exports[`Storyshots PureInboxScreen Default 1`] = `
           <input
             placeholder="Input title"
             readonly=""
+            style="background: blue;"
             type="text"
           />
         </div>
@@ -109,6 +111,7 @@ exports[`Storyshots PureInboxScreen Default 1`] = `
           <input
             placeholder="Input title"
             readonly=""
+            style="background: blue;"
             type="text"
           />
         </div>
@@ -143,6 +146,7 @@ exports[`Storyshots PureInboxScreen Default 1`] = `
           <input
             placeholder="Input title"
             readonly=""
+            style="background: blue;"
             type="text"
           />
         </div>
@@ -177,6 +181,7 @@ exports[`Storyshots PureInboxScreen Default 1`] = `
           <input
             placeholder="Input title"
             readonly=""
+            style="background: blue;"
             type="text"
           />
         </div>
@@ -211,6 +216,7 @@ exports[`Storyshots PureInboxScreen Default 1`] = `
           <input
             placeholder="Input title"
             readonly=""
+            style="background: blue;"
             type="text"
           />
         </div>
@@ -271,6 +277,7 @@ exports[`Storyshots PureInboxScreen Error 1`] = `
           <input
             placeholder="Input title"
             readonly=""
+            style="background: blue;"
             type="text"
           />
         </div>
@@ -305,6 +312,7 @@ exports[`Storyshots PureInboxScreen Error 1`] = `
           <input
             placeholder="Input title"
             readonly=""
+            style="background: blue;"
             type="text"
           />
         </div>
@@ -339,6 +347,7 @@ exports[`Storyshots PureInboxScreen Error 1`] = `
           <input
             placeholder="Input title"
             readonly=""
+            style="background: blue;"
             type="text"
           />
         </div>
@@ -373,6 +382,7 @@ exports[`Storyshots PureInboxScreen Error 1`] = `
           <input
             placeholder="Input title"
             readonly=""
+            style="background: blue;"
             type="text"
           />
         </div>
@@ -407,6 +417,7 @@ exports[`Storyshots PureInboxScreen Error 1`] = `
           <input
             placeholder="Input title"
             readonly=""
+            style="background: blue;"
             type="text"
           />
         </div>
@@ -441,6 +452,7 @@ exports[`Storyshots PureInboxScreen Error 1`] = `
           <input
             placeholder="Input title"
             readonly=""
+            style="background: blue;"
             type="text"
           />
         </div>
@@ -515,6 +527,7 @@ exports[`Storyshots PureTaskList Empty 1`] = `
         <input
           placeholder="Input title"
           readonly=""
+          style="background: blue;"
           type="text"
         />
       </div>
@@ -549,6 +562,7 @@ exports[`Storyshots PureTaskList Empty 1`] = `
         <input
           placeholder="Input title"
           readonly=""
+          style="background: blue;"
           type="text"
         />
       </div>
@@ -583,6 +597,7 @@ exports[`Storyshots PureTaskList Empty 1`] = `
         <input
           placeholder="Input title"
           readonly=""
+          style="background: blue;"
           type="text"
         />
       </div>
@@ -617,6 +632,7 @@ exports[`Storyshots PureTaskList Empty 1`] = `
         <input
           placeholder="Input title"
           readonly=""
+          style="background: blue;"
           type="text"
         />
       </div>
@@ -651,6 +667,7 @@ exports[`Storyshots PureTaskList Empty 1`] = `
         <input
           placeholder="Input title"
           readonly=""
+          style="background: blue;"
           type="text"
         />
       </div>
@@ -685,6 +702,7 @@ exports[`Storyshots PureTaskList Empty 1`] = `
         <input
           placeholder="Input title"
           readonly=""
+          style="background: blue;"
           type="text"
         />
       </div>
@@ -905,6 +923,7 @@ exports[`Storyshots Task Archived 1`] = `
         <input
           placeholder="Input title"
           readonly=""
+          style="background: blue;"
           type="text"
         />
       </div>
@@ -939,6 +958,7 @@ exports[`Storyshots Task Archived 1`] = `
         <input
           placeholder="Input title"
           readonly=""
+          style="background: blue;"
           type="text"
         />
       </div>
@@ -973,6 +993,7 @@ exports[`Storyshots Task Archived 1`] = `
         <input
           placeholder="Input title"
           readonly=""
+          style="background: blue;"
           type="text"
         />
       </div>
@@ -1007,6 +1028,7 @@ exports[`Storyshots Task Archived 1`] = `
         <input
           placeholder="Input title"
           readonly=""
+          style="background: blue;"
           type="text"
         />
       </div>
@@ -1041,6 +1063,7 @@ exports[`Storyshots Task Archived 1`] = `
         <input
           placeholder="Input title"
           readonly=""
+          style="background: blue;"
           type="text"
         />
       </div>
@@ -1075,6 +1098,7 @@ exports[`Storyshots Task Archived 1`] = `
         <input
           placeholder="Input title"
           readonly=""
+          style="background: blue;"
           type="text"
         />
       </div>
@@ -1115,6 +1139,7 @@ exports[`Storyshots Task Default 1`] = `
     <input
       placeholder="Input title"
       readonly=""
+      style="background: blue;"
       type="text"
     />
   </div>
@@ -1148,6 +1173,7 @@ exports[`Storyshots Task Pinned 1`] = `
     <input
       placeholder="Input title"
       readonly=""
+      style="background: blue;"
       type="text"
     />
   </div>
